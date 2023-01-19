@@ -1,5 +1,5 @@
 ### Hi, I am Libin George👋
-<img>https://www.realsimple.com/thmb/YcFF_IYfvAr1sXQQhulKRq3tEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-meghan-markle-498de1b0635c4bd19c8ba6d3b7494827.jpg</img>
+
 
 <!--
 **Libing1999/Libing1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
